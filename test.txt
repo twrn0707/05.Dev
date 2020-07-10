@@ -1,5 +1,3 @@
 hello git!
-
-branch‚ÌƒeƒXƒg
-
-master
+commit
+bat test
